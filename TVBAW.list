@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,brightcove.com
 DOMAIN-SUFFIX,us-central1-encoretvb-faecb.cloudfunctions.net
 DOMAIN-SUFFIX,dualstack.brightcove.map.fastly.net
 IP-CIDR,216.239.36.54/32
+IP-CIDR,210.149.135.22/32
 IP-CIDR,54.238.218.201/32
 IP-CIDR,23.62.46.84/32
 DOMAIN-SUFFIX,a162.dscg2.akamai.net

@@ -2,4 +2,4 @@
 DOMAIN-SUFFIX,api.usestoryteller.com
 DOMAIN-SUFFIX,media.usestoryteller.com
 DOMAIN-KEYWORD,nba
-IP-CIDR,208.185.115.18/32,no-resolve
+IP-CIDR,208.185.115.0/24,no-resolve

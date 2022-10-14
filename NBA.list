@@ -5,4 +5,5 @@ DOMAIN-SUFFIX,nba.com
 DOMAIN-SUFFIX,nbalpng.akamaized.net
 DOMAIN-SUFFIX,nba.studio.easelive.tv
 DOMAIN-SUFFIX,nba-cdn.cloud.easelive.tv
+DOMAIN-SUFFIX,nba.cloud.easelive.tv
 IP-CIDR,208.185.115.18/32,no-resolve
